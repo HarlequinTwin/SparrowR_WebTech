@@ -1612,6 +1612,9 @@ h3,
 h4,
 .h4 {
     font-size: 24px;
+    color: black;
+    text-decoration: underline;
+
 }
 
 h5,
