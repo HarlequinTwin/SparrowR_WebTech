@@ -30,6 +30,10 @@ h1 {
 
 }
 
+.tab-content {
+    background-color: rgba(179, 225, 251, 0.60);
+}
+
 
 footer {
     background-color: #a9977e;
